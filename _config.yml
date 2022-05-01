@@ -66,15 +66,15 @@ analytics:
 author:
   name             : "Wang Chen"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "China"
+  bio              : "Ph.D. candidate, Southeast University"
+  location         : "Nanjing, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : # "http://yourfullgooglescholarurl.com"
+  email            : "wangchen1073@126.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  github           : "academicpages"
-  orcid            : "http://orcid.org/yourorcidurl"
+  github           : "https://github.com/wangc1073"
+  orcid            : "https://orcid.org/0000-0002-1761-5744"
 
 
 # Reading Files
@@ -135,18 +135,18 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # Defaults
