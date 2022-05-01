@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+## Welcome! 
 
-You can use the [editor on GitHub](https://github.com/wangc1073/wangc1073.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I'm Wang Chen, currently a PhD candidate at the Southeast University.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+My research areas are neural network and machine learning. I'm interested in applying neural networks to specific issues. My current work focuses on multienergy load forecasting in integrated energy system. 
 
-### Markdown
+Publications
+------
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* Wang Chen, Wang Ying, Zheng Tao, Dai Zemei and Zhang Kaifeng. Multi-Energy Load Forecasting in Integrated Energy System Based on  ResNet-LSTM Network and Attention Mechanism[J].Transactions of China Electrotechnical Society,2022,37(07):1789-1799.DOI:10.19595/j.cnki.1000-6753.tces.210212.
 
-```markdown
-Syntax highlighted code block
+  ```
+  王琛,王颖,郑涛,戴则梅,张凯锋. 基于ResNet-LSTM网络和注意力机制的综合能源系统多元负荷预测[J].电工技术学报,2022,37(07):1789-1799.DOI:10.19595/j.cnki.1000-6753.tces.210212.
+  ```
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/wangc1073/wangc1073.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* C. Wang, Y. Wang, Z. Ding, T. Zheng, J. Hu and K. Zhang, "A Transformer-Based Method of Multi-energy Load Forecasting in Integrated Energy System," in *IEEE Transactions on Smart Grid*, doi: 10.1109/TSG.2022.3166600.(Early Access)
