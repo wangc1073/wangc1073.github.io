@@ -1,7 +1,7 @@
 ---
 layout: blogs
 title: Blog
-subtitle: Record academic ideas
+subtitle: Record interesting things
 ---
 
 Some interesting ideas will be published here. 
