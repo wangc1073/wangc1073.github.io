@@ -1,6 +1,5 @@
 ---
 layout: page
-title: Chen Wang
 subtitle: Please feel free to contact me.
 ---
 
