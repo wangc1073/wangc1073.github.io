@@ -4,5 +4,5 @@ title: Blog
 subtitle: Record interesting things
 ---
 
-Some interesting ideas will be published here. 
+Some interesting ideas will be posted here. 
 
