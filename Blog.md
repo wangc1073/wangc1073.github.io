@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: blogs
 title: Blog
 subtitle: Blog
 ---
