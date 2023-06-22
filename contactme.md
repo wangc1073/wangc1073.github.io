@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Chen Wang
-subtitle: Why you'd want to go on a date with me
+subtitle: Please feel free to contact me.
 ---
 
-Hello! I'm currently a PhD candidate at the Southeast University.
+## I am happy to respond. 
 
-My research areas are neural network and machine learning. I'm interested in applying neural networks to specific issues. My current work focuses on multi-energy load forecasting in integrated energy system. 
+Email: wangchen1073@126.com
 
