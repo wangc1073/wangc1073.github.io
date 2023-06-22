@@ -10,4 +10,4 @@ tags: [newbie]
 
 Try to share interesting ideas and practice writing. 
 
-Perhaps updat monthly. 
+Perhaps update monthly. 
