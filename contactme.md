@@ -1,5 +1,6 @@
 ---
 layout: page
+title: Contact Me
 subtitle: Please feel free to contact me.
 ---
 
