@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: blogs
 title: Chen Wang
 subtitle: PhD candidate, Southeast University
 ---
