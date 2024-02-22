@@ -6,7 +6,7 @@ subtitle: Some interesting papers
 
 ## Journal Article
 
-1. C. Wang, Y. Wang, Z. Ding, and K. Zhang, "Probabilistic Multi-energy Load Forecasting for Integrated Energy System Based on Bayesian Transformer Network," in IEEE Transactions on Smart Grid, Early Access, 2023, doi: [10.1109/TSG.2023.3296647](https://doi.org/10.1109/TSG.2023.3296647).
+1. C. Wang, Y. Wang, Z. Ding and K. Zhang, "Probabilistic Multi-Energy Load Forecasting for Integrated Energy System Based on Bayesian Transformer Network," in IEEE Transactions on Smart Grid, vol. 15, no. 2, pp. 1495-1508, March 2024, doi: [10.1109/TSG.2023.3296647](https://doi.org/10.1109/TSG.2023.3296647).
 
 2. C. Wang, Y. Wang, Z. Ding, T. Zheng, J. Hu and K. Zhang, "A Transformer-Based Method of Multienergy Load Forecasting in Integrated Energy System," in IEEE Transactions on Smart Grid, vol. 13, no. 4, pp. 2703-2714, July 2022, doi: [10.1109/TSG.2022.3166600](https://doi.org/10.1109/TSG.2022.3166600).
 
