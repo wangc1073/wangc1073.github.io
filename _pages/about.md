@@ -16,22 +16,9 @@ My research areas are neural network and machine learning. I'm interested in app
 Education
 ======
 
-* Mar 2022 - Present, pursuing Ph.D. in control science and engineering at Southeast University
-* Sep 2019 - Mar 2022, pursuing M.S. in control science and engineering at Southeast University
-* Sep 2015 - Sep 2019, B.S. in automation at Hefei University of Technology
-* Southeast University
-  * Mar 2022 - Present
-  * Pursuing Ph.D. in Control Science and Engineering
-  * Successive Postgraduate and Doctoral Program
-  * Advisor: Prof. Kaifeng Zhang
-* Southeast University
-  * Sep 2019 - Mar 2022
-  * Pursuing M.S. in Control Science and Engineering
-  * Advisor: Prof. Kaifeng Zhang
-* Hefei University of Technology
-  * Sep 2015 - Sep 2019
-  * B.S. in Automation
-  * Advisor: A/Prof. Shuanglong Yang
+* Mar 2022 - Present, pursuing Ph.D. at *Southeast University*, Advisor: Prof. Kaifeng Zhang
+* Sep 2019 - Mar 2022, pursuing M.S. at *Southeast University* (Successive Postgraduate and Doctoral Program)
+* Sep 2015 - Sep 2019, B.S. at *Hefei University of Technology*, Advisor: A/Prof. Shuanglong Yang
 
 Publications
 ======
