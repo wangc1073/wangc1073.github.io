@@ -19,11 +19,13 @@ Research interests
 Education
 ======
 
-* *Mar 2022* - *Present*, pursuing Ph.D. at *Southeast University*, Advisor: Prof. Kaifeng Zhang
-* *Mar 2024* - *Present*, visiting Ph.D. at *Politecnico di Milano*, Advisor: Prof. Enrico Zio
-* *Sep 2019* - *Mar 2022*, pursuing M.S. at *Southeast University* 
-  - transfer to *successive postgraduate and doctoral program*
-* Sep 2015 - Sep 2019, B.S. at *Hefei University of Technology*
+* <p style="text-align:left;"><b>Mar 2022 - Present</b>, <i>Southeast University</i><span style="float:right;">pursuing Ph.D. with Prof. Kaifeng Zhang</span></p>
+
+* <p style="text-align:left;"><b>Mar 2024 - Present</b>, <i>Politecnico di Milano</i><span style="float:right;">as visiting Ph.D. with Prof. Enrico Zio</span></p>
+
+* <p style="text-align:left;"><b>Sep 2019 - Mar 2022</b>, <i>Southeast University</i><span style="float:right;">pursuing M.E with Prof. Kaifeng Zhang</span></p>transfer to *successive postgraduate and doctoral program*
+
+* <p style="text-align:left;"><b>Sep 2015 - Sep 2019</b>, <i>Hefei University of Technology</i><span style="float:right;">B.E.</span></p>
 
 Publications
 ======
