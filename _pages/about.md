@@ -53,5 +53,5 @@ Publications
 Academic activities
 ======
 
-* Journal Reviewer: Energy Conversion and Management, 2023
-* Teaching Assistant:Power Electronic Technology, 2022
+* Journal Reviewer: `Energy Conversion and Management`, 2023
+* Teaching Assistant: `Power Electronic Technology`, 2022
