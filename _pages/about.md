@@ -16,8 +16,8 @@ My research areas are neural network and machine learning. I'm interested in app
 Education
 ======
 
-* Mar 2022 - Present, pursuing Ph.D. at *Southeast University*, Advisor: Prof. Kaifeng Zhang
-* Sep 2019 - Mar 2022, pursuing M.S. at *Southeast University* (Successive Postgraduate and Doctoral Program)
+* *Mar 2022* - *Present*, pursuing Ph.D. at *Southeast University*, Advisor: Prof. Kaifeng Zhang
+* *Sep 2019* - *Mar 2022*, pursuing M.S. at *Southeast University* (transfer to Successive Postgraduate and Doctoral Program)
 * Sep 2015 - Sep 2019, B.S. at *Hefei University of Technology*, Advisor: A/Prof. Shuanglong Yang
 
 Publications
