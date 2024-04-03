@@ -38,13 +38,15 @@ Publications
   {% endfor %}</ul>
 
 
+{% if site.talks %}
+
 Talks
 ======
 
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
-
+{% endif %}
 
 Teaching
 ======
