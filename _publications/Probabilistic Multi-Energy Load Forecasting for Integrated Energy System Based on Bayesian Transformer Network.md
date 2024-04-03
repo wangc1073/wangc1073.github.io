@@ -2,7 +2,6 @@
 title: "Probabilistic Multi-energy Load Forecasting for Integrated Energy System Based on
 Bayesian Transformer Network"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
 date: 2024-03-01
 venue: 'IEEE Transactions on Smart Grid'
 paperurl: 'https://doi.org/10.1109/TSG.2023.3296647'

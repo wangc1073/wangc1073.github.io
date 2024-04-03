@@ -1,8 +1,6 @@
 ---
 title: "A Transformer-Based Method of Multienergy Load Forecasting in Integrated Energy System"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2022-07-01
 venue: 'IEEE Transactions on Smart Grid'
 paperurl: 'https://doi.org/10.1109/TSG.2022.3166600'
