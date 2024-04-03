@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+Me
+
 A personal website
 ======
+
 Like 
