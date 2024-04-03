@@ -16,6 +16,9 @@ My research areas are neural network and machine learning. I'm interested in app
 Education
 ======
 
+* Mar 2022 - Present, pursuing Ph.D. in control science and engineering at Southeast University
+* Sep 2019 - Mar 2022, pursuing M.S. in control science and engineering at Southeast University
+* Sep 2015 - Sep 2019, B.S. in automation at Hefei University of Technology
 * Southeast University
   * Mar 2022 - Present
   * Pursuing Ph.D. in Control Science and Engineering
