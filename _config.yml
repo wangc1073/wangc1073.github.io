@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chen Wang"
+title                    : "Welcome!"
 title_separator          : "-"
 name                     : &name "Chen Wang"
 description              : &description "personal description"
