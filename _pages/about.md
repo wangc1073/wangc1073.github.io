@@ -9,9 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I'm Chen Wang, currently a PhD candidate at Southeast University. 
+Hi! I'm Chen Wang, currently a PhD candidate at Southeast University. I am interested in exploring the field of artificial intelligence and its application in energy. 
 
-My research areas are neural network and machine learning. I'm interested in applying neural networks to specific issues. My current work focuses on multi-energy load forecasting in integrated energy system. 
+Research interests
+======
+
+**Fields**: Multi-task Learning, Reinforcement Learning, Neural Networks, Load Forecasting, Integrated Energy System, and Optimization Method.
 
 Education
 ======
