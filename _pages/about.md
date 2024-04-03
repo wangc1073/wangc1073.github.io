@@ -33,7 +33,7 @@ Education
 Publications
 ======
 
-#### Journal Article
+## Journal Article
 
 1. C. Wang, Y. Wang, Z. Ding and K. Zhang, "Probabilistic Multi-Energy Load Forecasting for Integrated Energy System Based on Bayesian Transformer Network," in IEEE Transactions on Smart Grid, vol. 15, no. 2, pp. 1495-1508, March 2024, doi: [10.1109/TSG.2023.3296647](https://doi.org/10.1109/TSG.2023.3296647).
 
