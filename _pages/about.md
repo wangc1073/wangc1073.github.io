@@ -23,9 +23,9 @@ Education
 
 * <p style="text-align:left;"><b>Mar 2024 - Present</b>, <i>Politecnico di Milano</i><span style="float:right;">as visiting Ph.D. with Prof. Enrico Zio</span></p>
 
-* <p style="text-align:left;"><b>Sep 2019 - Mar 2022</b>, <i>Southeast University</i><span style="float:right;">pursuing M.E with Prof. Kaifeng Zhang</span></p>transfer to *successive postgraduate and doctoral program*
-
-* <p style="text-align:left;"><b>Sep 2015 - Sep 2019</b>, <i>Hefei University of Technology</i><span style="float:right;">Bachelor in Automation</span></p>
+* <p style="text-align:left;"><b>Sep 2019 - Mar 2022</b>, <i>Southeast University</i><span style="float:right;">pursuing M.Eng. with Prof. Kaifeng Zhang</span></p>
+  
+* <p style="text-align:left;"><b>Sep 2015 - Sep 2019</b>, <i>Hefei University of Technology</i><span style="float:right;">B.Eng. in Automation</span></p>
 
 Publications
 ======
