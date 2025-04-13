@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Hi! I'm Chen Wang. I am pursuing a Ph.D. at Southeast University. Currently, I am a visiting Ph.D. student at the Politecnico di Milano with Prof. Enrico Zio. I am interested in exploring the field of artificial intelligence and its application in energy. 
+Hi! I'm Chen Wang. I am pursuing a Ph.D. at Southeast University. I am interested in exploring the field of artificial intelligence and its application in energy. 
 
 Research interests
 ======
@@ -21,7 +21,7 @@ Education
 
 * <p style="text-align:left;"><b>Mar 2022 - Present</b>, <i>Southeast University</i><span style="float:right;">pursuing Ph.D. with Prof. Kaifeng Zhang</span></p>
 
-* <p style="text-align:left;"><b>Mar 2024 - Present</b>, <i>Politecnico di Milano</i><span style="float:right;">as visiting Ph.D. with Prof. Enrico Zio</span></p>
+* <p style="text-align:left;"><b>Mar 2024 - Mar 2025</b>, <i>Politecnico di Milano</i><span style="float:right;">as visiting Ph.D. with Prof. Enrico Zio</span></p>
 
 * <p style="text-align:left;"><b>Sep 2019 - Mar 2022</b>, <i>Southeast University</i><span style="float:right;">pursuing M.Eng. with Prof. Kaifeng Zhang</span></p>
   
