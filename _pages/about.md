@@ -30,11 +30,7 @@ Education
 Publications
 ======
 
-{% if site.author.googlescholar %}
-
-  <div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a> or <a href="{{site.author.orcid}}">ORCID profile</a>.</div>
-
-{% endif %}
+<div class="wordwrap">You can also find my articles on my <a href="{{site.author.googlescholar}}">Google Scholar profile</a> or <a href="{{site.author.orcid}}">ORCID profile</a>.</div>
 
 Academic activities
 ======
